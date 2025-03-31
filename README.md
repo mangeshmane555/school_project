@@ -1,1 +1,1 @@
-# temple_project
+# school_project
